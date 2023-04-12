@@ -1,0 +1,43 @@
+.div_speed {
+    float: left;
+    margin-top:1.2rem;
+   
+}
+.div_vol {
+    float: right;
+   
+}
+#img_speed {
+    width: 200px;
+    border-radius: 100px;
+}
+#img_vol {
+    width: 200px;
+    border-radius: 100px;
+}
+body{
+    background: cover;
+}
+.note{
+    font-size: 15px;
+    color: white;
+}
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin:0px;
+
+}
+#pay {
+    font-size: 30px;
+    width:130px;
+}
+canvas {
+    border:5px solid white;
+    border-radius:20px;
+    margin-top: 110px;
+}
+#vol, #speed {
+    font-size: 23px;
+    margin:15px;
+}
